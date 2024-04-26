@@ -1,0 +1,17 @@
+{
+  "name": "back-sacacitas",
+  "version": "1.0.0",
+  "description": "servidor pruebas",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.0"
+  },
+  "devDependencies": {}
+}
